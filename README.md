@@ -1,6 +1,6 @@
 ## Hola! 👋
 
-Soy **_Camilo Vargas_** y soy desarrollador junior **_Javascript_** & **__Python__**
+Soy **_Camilo Vargas_** y soy desarrollador junior **_Javascript_** & **_Python_**
 
 > Html, Css, Javascript, Nodejs, ReactJS, MongoDB, Mysql.
 
